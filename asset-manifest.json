@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bkoalacoin/static/css/main.6610feec.css",
+    "main.js": "/bkoalacoin/static/js/main.6c2b8d83.js",
+    "static/media/logo.webp": "/bkoalacoin/static/media/logo.0fa33583df2cbe25234b.webp",
+    "static/media/t.webp": "/bkoalacoin/static/media/t.a187a85af31aef5353bd.webp",
+    "static/media/i.webp": "/bkoalacoin/static/media/i.9bd18d48508179188f0f.webp",
+    "static/media/d.webp": "/bkoalacoin/static/media/d.4a7ba4ecff22bc0315cb.webp",
+    "static/media/x.webp": "/bkoalacoin/static/media/x.f63e5ceef5a0bb8a7f90.webp",
+    "index.html": "/bkoalacoin/index.html",
+    "main.6610feec.css.map": "/bkoalacoin/static/css/main.6610feec.css.map",
+    "main.6c2b8d83.js.map": "/bkoalacoin/static/js/main.6c2b8d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6610feec.css",
+    "static/js/main.6c2b8d83.js"
+  ]
+}
